@@ -75,7 +75,7 @@ Conecte-se conosco!
 * 🌐 **Site:** [presencia.com.br](https://presencia.com.br)
 * 💼 **LinkedIn:** [Presencia](https://www.linkedin.com/company/usepresencia)
 * 📸 **Instagram:** [@usepresencia](https://www.instagram.com/usepresencia/)
-* 👍 **Facebook:** [Presencia](https://www.facebook.com/profile.php?id=61581008064554)
+* 👍 **Facebook:** [Presencia](https://www.facebook.com/usepresencia)
 * 📧 **E-mail:** [contato@presencia.com.br](mailto:contato@presencia.com.br)
 
 ---
